@@ -86,4 +86,4 @@ In my free time, I enjoy playing sports, listening to music and chasing sunsets.
 
 ## Watch snake eating my github contributions 
  
-![snake gif](https://github.com/Ahar28/Ahar28/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ahar28/Ahar28/blob/output/github-contribution-grid-snake.gif)
