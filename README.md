@@ -76,6 +76,7 @@ In my free time, I enjoy playing sports, listening to music and chasing sunsets.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahar28/Ahar28/output/github-contribution-grid-snake.svg">
 </picture>
 
+
 ## 📫 Reach out to me:
 
 <p align="center">
@@ -83,11 +84,3 @@ In my free time, I enjoy playing sports, listening to music and chasing sunsets.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-
-## Watch snake eating my github contributions 
- 
-###
-
-<img src="https://raw.githubusercontent.com/Ahar28/Ahar28/output/snake.svg" alt="Snake animation" />
-
-###
