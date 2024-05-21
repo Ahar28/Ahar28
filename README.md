@@ -83,3 +83,7 @@ In my free time, I enjoy playing sports, listening to music and chasing sunsets.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
+## Watch snake eating my github contributions 
+ 
+![snake gif](https://github.com/Ahar28/Ahar28/blob/output/github-contribution-grid-snake.svg)
